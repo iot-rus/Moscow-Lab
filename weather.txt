@@ -48,3 +48,4 @@ failed to connect
 {"coord":{"lon":37.61,"lat":55.76},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"base":"cmc stations","main":{"temp":287.319,"pressure":1005.11,"humidity":60,"temp_min":287.319,"temp_max":287.319,"sea_level":1024.57,"grnd_level":1005.11},"wind":{"speed":4.11,"deg":9.00198},"clouds":{"all":0},"dt":1463040040,"sys":{"message":0.0034,"country":"RU","sunrise":1463016151,"sunset":1463074234},"id":524894,"name":"Moskva","cod":200}
 failed to connect
 {"coord":{"lon":37.61,"lat":55.76},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"base":"cmc stations","main":{"temp":287.319,"pressure":1005.11,"humidity":60,"temp_min":287.319,"temp_max":287.319,"sea_level":1024.57,"grnd_level":1005.11},"wind":{"speed":4.11,"deg":9.00198},"clouds":{"all":0},"dt":1463040040,"sys":{"message":0.0034,"country":"RU","sunrise":1463016151,"sunset":1463074234},"id":524894,"name":"Moskva","cod":200}
+failed to connect
